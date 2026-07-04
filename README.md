@@ -1,6 +1,6 @@
 # Financial Networks
 
-This repository contains the implementation and analysis of **Functional networks from multivariate financial time series** (based on the work/course by Anindya S. Chakrabarti).
+This repository contains the implementation and analysis of **Functional networks from multivariate financial time series** 
 
 ## Overview
 
